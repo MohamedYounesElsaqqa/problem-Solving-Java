@@ -1,3 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Master the Art of Coding</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        .highlight {
+            background-color: #f0f8ff;
+            border-left: 4px solid #4CAF50;
+            padding: 10px;
+        }
+    </style>
+</head>
 <body>
     <h1>🌟 Master the Art of Coding: Your Ultimate Problem-Solving Repo 🌟</h1>
     
@@ -27,3 +52,4 @@
         <p>You can find the problems here: <a href="https://www.hackerrank.com/domains/java?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=java" target="_blank">Welcome to Java</a></p>
     </section>
 </body>
+</html>
