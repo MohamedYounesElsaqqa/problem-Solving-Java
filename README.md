@@ -1,4 +1,4 @@
-🌟 Master the Art of Coding: Your Ultimate Problem-Solving Repo 🌟
+<h1>🌟 Master the Art of Coding: Your Ultimate Problem-Solving Repo 🌟</h1>
 Welcome to a treasure trove of solutions to coding challenges from Codeforces, HackerRank, and LeetCode! Whether you're a seasoned coder honing your skills or a newcomer eager to dive into the world of algorithms, this repository is your go-to resource.
 
 Inside This Repository:
